@@ -56,9 +56,7 @@ Usually, what is the name of the main branch of a repository?
 
 A branch is :
 
-- A. A new modification added to a repository
 - B. A repository history line
-- C. A merge operation
 
 ### Question 10
 
