@@ -1,6 +1,11 @@
 name: Mon Workflow CI
 
-on: [push]
+on:
+  push:
+    branches:
+      - main
+      - feature/*
+
 
 jobs:
   build:
